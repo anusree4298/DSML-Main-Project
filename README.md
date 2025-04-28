@@ -15,4 +15,4 @@ Phase 1:
   6. Finding and Handling outliers
   7. Featuring Selection
   8. Splitting the dataset
-  9 .Feature scaling
+  9. Feature scaling
