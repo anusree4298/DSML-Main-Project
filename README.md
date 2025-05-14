@@ -11,8 +11,12 @@ Phase 1:
   2. Importing libraries
   3. Importing datasets
   4. Finding Missing Data
-  5. Encoding Categorical Data
+  5. Checking for duplicates
   6. Finding and Handling outliers
-  7. Featuring Selection
-  8. Splitting the dataset
-  9. Feature scaling
+  7. Encoding Categorical Data
+  8. Skewness
+  9. Correlation and Heatmap
+  10. Feature Selection
+  11. Feature scaling
+  12. Splitting the dataset
+
