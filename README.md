@@ -22,3 +22,11 @@ Phase 1:
   11. Feature scaling
   12. Splitting the dataset
 
+Phase 2: 
+
+  13. Model Selection
+  14. Pipeline creation
+  15. Hyperparameter tuning
+  16. Model Application
+     
+
